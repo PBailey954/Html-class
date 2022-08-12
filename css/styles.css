@@ -1,0 +1,24 @@
+body{
+    margin: 10px;
+}
+
+h1{
+    color: deeppink;
+}
+
+p{
+    color: brown;
+}
+
+.second{
+    font-size: 150%;
+}
+
+.second:hover, .second:focus{
+    font-weight: bold;
+    font-size: 160%;
+    color: darkgreen;
+}
+video{
+    width: 200px;
+}
